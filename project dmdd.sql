@@ -224,7 +224,6 @@ Insert into REGION values ( 74397, 'Chattisgarh', 'Raipur', 5564,32898);
 Insert into REGION values ( 28188, 'Uttrakhand', 'Dehradun', 5564,13342);
 Insert into REGION values ( 62715, 'Jammu & Kashmir', 'Srinagar', 1637,7632);
 
-
 --YEAR TABLE INSERTION
 --Year,GovtId
 INSERT INTO [YEAR] VALUES(2006,3110)
