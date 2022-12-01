@@ -24,17 +24,19 @@ Insert into REGION values( 84334, 'Maharashtra', 'Thane', 3110,23493);
 Insert into REGION values ( 23124, 'Gujarat', 'Ahmedabad', 0209,15000);
 Insert into REGION values ( 54231, 'Goa', 'North Goa', 2110,1340);
 Insert into REGION values ( 34432, 'Rajasthan', 'Jodhpur', 2510,6213);
-Insert into REGION values ( 98343, 'Punjab', 'Amritsar', 0109, 8343);
+Insert into REGION values ( 98343, 'Punjab', 'Amritsar', 0109,8343);
+Insert into REGION values ( 98000, 'Kerala', 'Thrissur', 0200,5000);
 Insert into REGION values ( 92323, 'Tamil Nadu', 'Chennai', 0506,42234);
-Insert into REGION values ( 91212, 'West Bengal', 'Kolkata', 0122, 23441);
+Insert into REGION values ( 91212, 'West Bengal', 'Kolkata', 0122,23441);
+Insert into REGION values ( 38231, 'Karnataka', 'Bangalore', 0134,6200);
+Insert into REGION values ( 45982, 'Jharkand', 'Wasseypur', 1212,12000);
 Insert into REGION values ( 24593, 'Assam', 'Guwahati', 2755,8000);
 Insert into REGION values ( 70831, 'Madhya Pradesh', 'Bhopal', 2755,4353);
 Insert into REGION values ( 28492, 'Bihar', 'Patna', 2755,12624);
 Insert into REGION values ( 74397, 'Chattisgarh', 'Raipur', 5564,32898);
+Insert into REGION values ( 28188, 'Uttrakhand', 'Dehradun', 5564,13342);
 Insert into REGION values ( 62715, 'Jammu & Kashmir', 'Srinagar', 1637,7632);
-Insert into REGION values ( 38231, 'Andhra Pradesh', 'Amaravati', 0134, 2468);
-Insert into REGION values ( 98000, 'Uttar Pradesh', 'Lucknow', 0200, 13342);
-select * from region;
+
 
 --YEAR TABLE INSERTION
 --Year,GovtId
